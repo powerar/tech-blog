@@ -18,3 +18,6 @@ A simple tech blog site where users can post and comment.
 
 ## Screenshots
 ![Screenshot 2021-06-12 174505](https://user-images.githubusercontent.com/78888642/121789829-60445500-cba7-11eb-9050-2cc4762cb6d0.png)
+
+##Contributors
+[powerar](https://github.com/powerar)
