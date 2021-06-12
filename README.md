@@ -3,7 +3,7 @@
 ## Purpose
 A simple tech blog site where users can post and comment.
 
-##How To Use
+## How To Use
 * Press the login button in the navbar and enter details under "Sign Up"
 * After clicking the Sign Up button, click Dashboard to make a new post
 * Selecting a post in the Dashboard will allow you to edit and delete your posts
