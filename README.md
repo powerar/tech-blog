@@ -4,6 +4,7 @@
 A simple tech blog site where users can post and comment.
 
 ## How To Use
+* Go to https://damp-wildwood-10147.herokuapp.com/
 * Press the login button in the navbar and enter details under "Sign Up"
 * After clicking the Sign Up button, click Dashboard to make a new post
 * Selecting a post in the Dashboard will allow you to edit and delete your posts
